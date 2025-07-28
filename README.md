@@ -192,7 +192,7 @@ Agnipath EV Nav directly addresses **"Innovating the future of smart mobility"**
 
 ## 👥 Team Members
 
-* [Vanshika Mahaja]
+* [Vanshika Mahajan]
 * [Areeza Suhail]
 
 

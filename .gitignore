@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+.venv/ # good to include both common names
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Other common Python temporary files
+.Python
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows

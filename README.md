@@ -1,4 +1,4 @@
-# Tata-Hackathon-2025
+# Tata Technologies InnoVent2025
 # Volttrek AI: Intelligent Journey Planner & Green Impact Assistant
 
 ## 💡 Innovating the Future of Smart Mobility

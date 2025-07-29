@@ -169,7 +169,7 @@ How can I help you plan your EV journey?
 
 ## 🌟 Alignment with Tata Hackathon Theme
 
-Agnipath EV Nav directly addresses **"Innovating the future of smart mobility"** by:
+Voltrek AI directly addresses **"Innovating the future of smart mobility"** by:
 
 * **Promoting EV Adoption:** By providing intelligent trip planning and reducing "range anxiety" for long journeys.
 * **Enhancing User Experience:** Utilizing AI (LLM) for natural, conversational interaction, making complex planning simple.

@@ -48,7 +48,7 @@
 
 ## 🚀 Setup & Run Instructions
 
-Follow these steps to get Agnipath EV Nav up and running on your local machine.
+Follow these steps to get Voltrek AI up and running on your local machine.
 
 ### **Prerequisites:**
 

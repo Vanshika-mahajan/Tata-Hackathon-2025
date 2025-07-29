@@ -1,9 +1,9 @@
 # Tata-Hackathon-2025
-# Agnipath EV Nav: Intelligent Journey Planner & Green Impact Assistant
+# Volttrek AI: Intelligent Journey Planner & Green Impact Assistant
 
 ## 💡 Innovating the Future of Smart Mobility
 
-**Agnipath EV Nav** is an intelligent, AI-powered journey planner designed to enhance the Electric Vehicle (EV) driving experience in India by providing smart routing, identifying charging infrastructure, and quantifying the positive environmental impact of choosing electric. Built for the Tata Hackathon 2025, it aims to reduce range anxiety and promote sustainable transportation by making EV trips seamless and eco-conscious.
+**Volttrek AI** is an intelligent, AI-powered journey planner designed to enhance the Electric Vehicle (EV) driving experience in India by providing smart routing, identifying charging infrastructure, and quantifying the positive environmental impact of choosing electric. Built for the Tata Hackathon 2025, it aims to reduce range anxiety and promote sustainable transportation by making EV trips seamless and eco-conscious.
 
 ---
 
@@ -103,7 +103,7 @@ Follow these steps to get Agnipath EV Nav up and running on your local machine.
 
 7.  **Open and Run the Notebook:**
     * In the JupyterLab interface that opens in your browser, navigate to your project directory.
-    * Open `data_exploration.ipynb` (or `Demo_Agnipath_EV_Nav.ipynb` if you've renamed it for demo).
+    * Open `data_exploration.ipynb` (or `Demo_Volttrek_AI.ipynb` if you've renamed it for demo).
     * **Crucially, select the "Tata EV Nav Hackathon (Python 3.11)" kernel** for the notebook (top-right dropdown menu).
     * **Run all cells from top to bottom.** (You can use `Cell > Run All` from the Jupyter menu).
         * **Important Note:** The **road network graph (`road_network_Delhi_India.graphml`)** and **OSMnx cache files (`data/cache/`)** are large generated files and are NOT committed to GitHub. Running the notebook (specifically Step 4 and subsequent loading steps) will automatically download and generate these files on your local machine. This might take 5-15 minutes the first time.
